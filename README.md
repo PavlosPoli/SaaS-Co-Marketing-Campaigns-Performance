@@ -3,7 +3,7 @@ Campaign performance and future budget allocation
 
 ## The project's goal is to investigate the performance of SaaS Co's marketing campaign categories and surface evidence-based recommendations for allocating future marketing budget.
 
-SaaS Co is a subscription-based analytics and reporting software company serving business customers across the United States and other international markets. From 2021 onward, the company ran 19 marketing campaigns across six categories: Paid Search, Organic, Outbound, Events, Partner and Referral. Prospects move from campaign engagement to leads and trial signups before entering the sales opportunity pipeline, where successful outcomes become new customer acquisitions or reactivations.
+SaaS Co is a subscription-based analytics and reporting software company serving business customers across the United States and other international markets. From 2021, the company ran 19 marketing campaigns across six categories: Paid Search, Organic, Outbound, Events, Partner and Referral. Prospects move from campaign engagement to leads and trial signups before entering the sales opportunity pipeline, where successful outcomes become new customer acquisitions or reactivations.
 
 Preparing the next annual marketing budget, SaaS Co wants a clearer view of how each campaign category performed and how campaign activity relates to signups, Won customer outcomes (New/Reactivated) and the initial recurring revenue attached to those customers. The budget supports two primary objectives: 1) increase qualified trial signups and new customer acquisitions, and 2) expand awareness of SaaS Co's analytics platform across its target markets. This project describes the performance observed in the available data and uses those results to propose a measured allocation of future campaign spending.
 
@@ -63,7 +63,9 @@ Only two raw tables are required. Their relationship is logical rather than a ph
 - **Test Referral growth and keep Outbound stable:** Grow Referral carefully because its strong efficiency may be harder to maintain at scale. Keep Outbound as a steady acquisition channel.
 
 ## Dashboard
-The dashboard can be found in Tableau Public [here] <provide link>
+The Tableau dashboard contains three separated groups: Marketing Metrics, Signups and New Customers and can be found in Tableau Public [here] <provide link>
+
+
 
 ## Presentation
 The presentation created for the marketing team walks through the insights and recommendations above and can be found [here] <provide link>
