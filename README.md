@@ -66,6 +66,6 @@ Only two raw tables are required. Their relationship is logical rather than a ph
 The dashboard can be found in Tableau Public [here] <provide link>
 
 ## Presentation
-The presentation can be found [here] <provide link>
+The presentation created for the marketing team walks through the insights and recommendations above and can be found [here] <provide link>
 
 
