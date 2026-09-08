@@ -65,5 +65,5 @@ Only two raw tables are required. Their relationship is logical rather than a ph
 ## Dashboard
 The Tableau dashboard contains three separated groups: Marketing Metrics, Signups and New Customers and can be found in Tableau Public [here]. <provide link> This dashboard focuses on trends and values in marketing metrics, signup metrics and new customer metrics.
 
-<img width="1440" height="1661" alt="Dashboard 1" src="https://github.com/user-attachments/assets/4e0b992c-6a0f-4f23-8fce-46b525c61de5" />
+<img width="1440" height="1649" alt="Dashboard 2" src="https://github.com/user-attachments/assets/634199d1-bd1b-49ef-9672-b1e49c041434" />
 
