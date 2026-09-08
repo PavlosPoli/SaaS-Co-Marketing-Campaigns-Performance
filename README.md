@@ -63,7 +63,7 @@ Only two raw tables are required. Their relationship is logical rather than a ph
 - **Test Referral growth and keep Outbound stable:** Grow Referral carefully because its strong efficiency may be harder to maintain at scale. Keep Outbound as a steady acquisition channel.
 
 ## Dashboard
-The Tableau dashboard contains three separated groups: Marketing Metrics, Signups and New Customers and can be found in Tableau Public [here]. This dashboard focuses on trends and values in marketing metrics, signup metrics and new customer metrics.
+The Tableau dashboard contains three separated groups: Marketing Metrics, Signups and New Customers and can be found in Tableau Public [here](https://public.tableau.com/app/profile/pavlos.poli/viz/saas_marketing_campaign_evaluation/Dashboard1). This dashboard focuses on trends and values in marketing metrics, signup metrics and new customer metrics.
 
 <img width="1440" height="1649" alt="Dashboard 2" src="https://github.com/user-attachments/assets/634199d1-bd1b-49ef-9672-b1e49c041434" />
 
