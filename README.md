@@ -1,4 +1,4 @@
-# SaaS Co Marketing Insights - Project Overview
+# SaaS Co Marketing Campaigns Performance - Project Overview
 Campaign performance and future budget allocation
 
 ## The project's goal is to investigate the performance of SaaS Co's marketing campaign categories and surface evidence-based recommendations for allocating future marketing budget.
