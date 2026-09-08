@@ -67,3 +67,8 @@ The Tableau dashboard contains three separated groups: Marketing Metrics, Signup
 
 <img width="1440" height="1649" alt="Dashboard 2" src="https://github.com/user-attachments/assets/634199d1-bd1b-49ef-9672-b1e49c041434" />
 
+## Main Conclusion
+
+Marketing generated strong reach and signup volume, but relatively few signups became paying customers, making conversion the main performance gap. December 2025 confirmed this pattern: spend and signups fell by about 33% month over month, while new customers remained at nine and initial MRR more than doubled, indicating fewer but higher-value acquisitions. Marketing decisions should therefore prioritize campaign categories that generate paying customers and initial MRR and not simply impressions, clicks or signups.
+
+
