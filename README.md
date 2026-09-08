@@ -67,8 +67,3 @@ The Tableau dashboard contains three separated groups: Marketing Metrics, Signup
 
 <img width="1440" height="1661" alt="Dashboard 1" src="https://github.com/user-attachments/assets/4e0b992c-6a0f-4f23-8fce-46b525c61de5" />
 
-
-## Presentation
-The presentation created for the marketing team, walks through the insights and recommendations above and can be found [here] <provide link>
-
-
